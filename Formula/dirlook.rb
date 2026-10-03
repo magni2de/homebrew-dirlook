@@ -1,7 +1,6 @@
 class Dirlook < Formula
   desc "Fast, zero-dependency terminal disk usage analyzer"
   homepage "https://github.com/magni2de/dirlook"
-  version "0.2.0"
   license any_of: ["MIT", "Apache-2.0"]
 
   on_macos do
