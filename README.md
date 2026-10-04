@@ -1,17 +1,24 @@
-# homebrew-dirlook
+# homebrew-tap
 
-Homebrew tap for [dirlook](https://github.com/magni2de/dirlook) — a fast,
-zero-dependency terminal disk usage analyzer.
+Homebrew formulae for [magni2de](https://github.com/magni2de)'s tools.
+
+## Formulae
+
+| Formula | Description |
+| --- | --- |
+| [dirlook](https://github.com/magni2de/dirlook) | Fast, zero-dependency terminal disk usage analyzer |
 
 ## Install
 
+Install a formula straight from the tap in one command:
+
 ```sh
-brew install magni2de/dirlook/dirlook
+brew install magni2de/tap/dirlook
 ```
 
-Or:
+Or add the tap first, then install by name:
 
 ```sh
-brew tap magni2de/dirlook
+brew tap magni2de/tap
 brew install dirlook
 ```
