@@ -5,23 +5,23 @@ class Dirlook < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/magni2de/dirlook/releases/download/v0.3.0/dirlook-v0.3.0-macos-arm64.tar.gz"
-      sha256 "49afcc5ccdf49d6693a3b699a491c1af74559a7e80fccd3768e40f6fc481f67c"
+      url "https://github.com/magni2de/dirlook/releases/download/v0.4.0/dirlook-v0.4.0-macos-arm64.tar.gz"
+      sha256 "2dd31828b6256e6a7809fa32237cb556a24ae3275941798efd4ac7769eb3d9a7"
     end
     on_intel do
-      url "https://github.com/magni2de/dirlook/releases/download/v0.3.0/dirlook-v0.3.0-macos-x86_64.tar.gz"
-      sha256 "bc0932590c48696acc17cc8ae1ba73cab1f0e5b427108dca5ecc5d28b431d5af"
+      url "https://github.com/magni2de/dirlook/releases/download/v0.4.0/dirlook-v0.4.0-macos-x86_64.tar.gz"
+      sha256 "4cd689371c5711105243e60e0438e92fc3893cd609a173c4677fafbadcbe84b7"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/magni2de/dirlook/releases/download/v0.3.0/dirlook-v0.3.0-linux-arm64.tar.gz"
-      sha256 "efcda6c757ee0536e9a9ac2d15e54808daf1ad3037cfadd4d91f73fc783f6569"
+      url "https://github.com/magni2de/dirlook/releases/download/v0.4.0/dirlook-v0.4.0-linux-arm64.tar.gz"
+      sha256 "92b79ed439a3ee459982bcade18978bd33e2eb1917ae97759ce50d58355481c1"
     end
     on_intel do
-      url "https://github.com/magni2de/dirlook/releases/download/v0.3.0/dirlook-v0.3.0-linux-x86_64.tar.gz"
-      sha256 "3d27bb13fa1634002664d6c5b14e6d9c06506e8c7767c5f5dbfb5a142b5a245c"
+      url "https://github.com/magni2de/dirlook/releases/download/v0.4.0/dirlook-v0.4.0-linux-x86_64.tar.gz"
+      sha256 "1e222a918b7bffb14830b2de4a7fa652c50dfcb52c998a990c5b60da25dafd5d"
     end
   end
 
